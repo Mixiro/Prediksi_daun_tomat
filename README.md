@@ -27,12 +27,18 @@ Proyek ini menggunakan PlantVillage Dataset (Tomato saja)
 
 ## 🌐 Cara Menjalankan Aplikasi Web
 1. Clone repository
+   
 2. Install dependencies
-'pip install -r requirements.txt'
+   
+pip install -r requirements.txt
+
 3. Jalankan Flask
-'python app.py'
-4. Akses web
-'http://127.0.0.1:5000/'
+   
+python app.py
+
+5. Akses web
+   
+http://127.0.0.1:5000/
 
 ## 🖼️ Antarmuka Web
 
