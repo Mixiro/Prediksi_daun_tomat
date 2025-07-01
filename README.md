@@ -3,16 +3,20 @@
 Aplikasi web berbasis Flask untuk klasifikasi penyakit daun tomat menggunakan model MobileNetV2. Pengguna dapat mengunggah gambar daun tomat, lalu sistem akan memprediksi jenis penyakitnya secara otomatis dan memberikan solusi penanganan yang tepat.
 
 📂 Dataset
-
 Proyek ini menggunakan PlantVillage Dataset (Tomato saja):
 🔗 Kaggle Link - PlantVillage Dataset
 
 📌 Kategori Penyakit Daun Tomat:
 🟠 Bacterial Spot
+
 🟤 Early Blight
+
 ✅ Healthy
+
 🔴 Late Blight
+
 🟡 Septoria Leaf Spot
+
 💛 Yellow Leaf Curl Virus
 
 🌐 Cara Menjalankan Aplikasi Web
