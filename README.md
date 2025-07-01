@@ -4,7 +4,8 @@ Aplikasi web berbasis Flask untuk klasifikasi penyakit daun tomat menggunakan mo
 
 📂 Dataset
 Proyek ini menggunakan PlantVillage Dataset (Tomato saja):
-🔗 Kaggle Link - PlantVillage Dataset
+
+🔗 Kaggle Link : https://www.kaggle.com/datasets/tushar5harma/plant-village-dataset-updated
 
 📌 Kategori Penyakit Daun Tomat:
 🟠 Bacterial Spot
