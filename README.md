@@ -10,7 +10,6 @@ Proyek ini menggunakan PlantVillage Dataset (Tomato saja)
 🔗 Kaggle Link : https://www.kaggle.com/datasets/tushar5harma/plant-village-dataset-updated
 
 
-
 **📌 Kategori Penyakit Daun Tomat**
 
 🟠 Bacterial Spot
