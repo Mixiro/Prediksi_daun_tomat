@@ -1,3 +1,24 @@
-Deskrip Projek
-Proyek ini merupakan sistem klasifikasi penyakit daun tomat berbasis Deep Learning (CNN) menggunakan arsitektur MobileNetV2 dan diimplementasikan dalam aplikasi web menggunakan Flask. Tujuannya adalah untuk membantu petani atau praktisi pertanian dalam mendeteksi dini penyakit pada daun tomat berdasarkan gambar, sehingga dapat dilakukan penanganan lebih cepat dan tepat.
+🌐 Cara Menjalankan Aplikasi Web
+1. Clone repository
+bash
+Copy
+Edit
+git clone https://github.com/username/Prediksi_daun_tomat.git
+cd Prediksi_daun_tomat
+2. Install dependencies
+bash
+Copy
+Edit
+pip install -r requirements.txt
+3. Jalankan Flask
+bash
+Copy
+Edit
+python app.py
+4. Akses web
+Buka browser dan akses:
 
+cpp
+Copy
+Edit
+http://127.0.0.1:5000/
