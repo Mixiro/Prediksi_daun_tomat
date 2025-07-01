@@ -39,8 +39,12 @@ http://127.0.0.1:5000/
 
 
 **🖼️ Antarmuka Web**
+
 Fitur:
-Upload gambar daun tomat
-Deteksi penyakit secara real-time
-Solusi penanganan langsung ditampilkan
+
+- Upload gambar daun tomat
+  
+- Deteksi penyakit secara real-time
+
+- Solusi penanganan langsung ditampilkan
 
