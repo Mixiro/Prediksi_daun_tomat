@@ -8,6 +8,14 @@ Proyek ini menggunakan PlantVillage Dataset (Tomato saja)
 
 🔗 Kaggle Link : https://www.kaggle.com/datasets/tushar5harma/plant-village-dataset-updated
 
+## 🧠 Model dan Pelatihan
+Arsitektur: MobileNetV2 (imagenet pretrained)
+
+Optimizer: Adam
+
+Loss: Categorical Crossentropy
+
+Epoch: 10
 
 ## 📌 Kategori Penyakit Daun Tomat
 
