@@ -37,7 +37,6 @@ Proyek ini menggunakan PlantVillage Dataset (Tomato saja)
 
 ## 🖼️ Antarmuka Web
 
-Fitur:
 
 - Upload gambar daun tomat
   
