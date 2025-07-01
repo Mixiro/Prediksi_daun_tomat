@@ -1,17 +1,17 @@
-**🍅 Prediksi Penyakit Daun Tomat**
+##🍅 Prediksi Penyakit Daun Tomat##
 
 Aplikasi web berbasis Flask untuk klasifikasi penyakit daun tomat menggunakan model MobileNetV2. Pengguna dapat mengunggah gambar daun tomat, lalu sistem akan memprediksi jenis penyakitnya secara otomatis dan memberikan solusi penanganan yang tepat.
 
 
 
-**📂 Dataset**
+#📂 Dataset#
 
 Proyek ini menggunakan PlantVillage Dataset (Tomato saja)
 
 🔗 Kaggle Link : https://www.kaggle.com/datasets/tushar5harma/plant-village-dataset-updated
 
 
-**📌 Kategori Penyakit Daun Tomat**
+#📌 Kategori Penyakit Daun Tomat#
 
 🟠 Bacterial Spot
 
